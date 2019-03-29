@@ -41,7 +41,7 @@
          </div>
 
 
-         <input type="submit" value="Combat">
+         <input type="submit" value="Jouer">
          </fieldset>
       </form>
    <div>
